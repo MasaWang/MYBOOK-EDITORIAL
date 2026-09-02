@@ -96,9 +96,7 @@ VI｜Philosophical Core Module｜哲學核心模組 的開篇章。
 
 本章承接全書脈絡，定位為對「共感（Empathy）」、「共創（Co-Creation）」與「共生（Symbiosis）」三元哲學的整體統攝。
 
-## **📘** 
-
-## **Part VI · Philosophical Core Module｜哲學核心模組**
+## **Chapter 25 · The Philosophy of Intelligence｜智慧的哲學**
 
 ### **The Continuum of Wisdom｜智慧的連續體**
 
