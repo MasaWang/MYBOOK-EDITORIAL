@@ -4,7 +4,9 @@ OceanAI v1.9a–R2 哲學與架構專書(中英對照)。共六篇 Part、20 章
 
 ## 目錄
 
-- [前言與目錄](00_前言與目錄.md)
+- [目錄](00_Contents_目錄.md)
+- [Opening｜開篇](01_Opening_開篇.md)
+- [Preface｜前言](02_Preface_前言.md)
 
 ### Part I · 基礎篇
 

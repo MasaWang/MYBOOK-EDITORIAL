@@ -7,7 +7,9 @@ output="$book_root/完整版.md"
 temporary=$(mktemp "$book_root/.完整版.XXXXXX")
 
 sources=(
-  "$book_root/00_前言與目錄.md"
+  "$book_root/00_Contents_目錄.md"
+  "$book_root/01_Opening_開篇.md"
+  "$book_root/02_Preface_前言.md"
   "$book_root/Part_I_基礎篇/00_篇首.md"
   "$book_root/Part_I_基礎篇/01_願景與使命.md"
   "$book_root/Part_I_基礎篇/02_智慧的意義.md"
