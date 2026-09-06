@@ -1,4 +1,4 @@
-# **🧭 OceanAI v1.9a–R2 · Final Table of Contents Alignment**
+# **🧭 OceanAI v1.9a–R2 · Final Table of Contents Alignment
 
 ### **Ocean of Intelligence — The Architecture of Intelligence and the Ethics of Continuity**
 
