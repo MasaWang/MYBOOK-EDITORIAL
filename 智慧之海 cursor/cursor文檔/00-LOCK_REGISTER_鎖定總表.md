@@ -35,6 +35,14 @@
 | 一百二十節結構 | `智慧之海 cursor/cursor文檔/00-120_Section_Structural_Baseline_v1.1_一百二十節結構基準.md` | **LOCKED v1.1。** 鎖定節名、思想任務與六處邊界。不構成正文批准 |
 | 一百二十節結構 v1.0 | `智慧之海 cursor/cursor文檔/00-120_Section_Structural_Baseline_v1.0_一百二十節結構基準.md` | **歷史基準。** 不得用它覆蓋 v1.1 |
 | 正文生產流程 | `智慧之海 cursor/cursor文檔/00-Manuscript_Production_Instructions_v1.1_正文生產工作指令.md` | **工作指令 v1.1。** 不構成正文批准 |
+| 書稿編輯生產標準 | `智慧之海 cursor/cursor文檔/00-EDITORIAL_STANDARD_v0.1_LOCKED_書稿編輯生產標準.md` | **LOCKED v0.1。** 2026-10-15 作者批准。SHA-256 `613ac0ed2e47e3e6b596c2fbdb429cd7e52b7908a4a7e66d4ed14574a5b5cb82`。原文不改。不覆蓋已鎖定正文，不取代海海風 v1.0 |
+| 書稿編輯生產標準 v0.2 | `智慧之海 cursor/cursor文檔/00-EDITORIAL_STANDARD_v0.2_CANDIDATE_書稿編輯生產標準.md` | **Candidate。** 整合候選，尚待作者批准。不覆蓋 v0.1 |
+| 正文生產工作指令 v1.2 | `智慧之海 cursor/cursor文檔/00-Manuscript_Production_Instructions_v1.2_CANDIDATE_正文生產工作指令.md` | **Candidate。** 整合候選，尚待作者批准。不覆蓋 v1.1 |
+| 書稿撰寫標準 | `智慧之海 cursor/cursor文檔/01_MANUSCRIPT_WRITING_STANDARD_v0.2_LOCKED.md` | **LOCKED v0.2。** 2026-10-15 作者批准，納入權威體系。SHA-256 `fae3e569409cc7fcdf696e9e8802d1873fa4b10d2ebb94a2cf30924a8e5c4fcf`。在撰寫事項內優先適用。Candidate 雜湊 `3f7f6688…6efb` |
+| 書稿修訂標準 | `智慧之海 cursor/cursor文檔/02_MANUSCRIPT_REVISION_STANDARD_v0.2_LOCKED.md` | **LOCKED v0.2。** 2026-10-15 作者批准，納入權威體系。SHA-256 `a83e643e3317880e229e9579a72ad1e1aa1068829003e0f3b8aaa97b8b46f986`。在修訂事項內優先適用。Candidate 雜湊 `ee6e3915…1294` |
+| 書稿驗證標準 | `智慧之海 cursor/cursor文檔/03_MANUSCRIPT_VALIDATION_STANDARD_v0.2_LOCKED.md` | **LOCKED v0.2。** 2026-10-15 作者批准，納入權威體系。SHA-256 `7cd9b35e41bbc00ad18a10f11dc0250ebe6c138d5a1275f4082cf98eee5fc7f9`。在驗證事項內優先適用。Candidate 雜湊 `1c1af6a3…e6b7` |
+| 書稿驗收與鎖定標準 | `智慧之海 cursor/cursor文檔/04_MANUSCRIPT_ACCEPTANCE_AND_LOCK_STANDARD_v0.2_LOCKED.md` | **LOCKED v0.2。** 2026-10-15 作者批准，納入權威體系。SHA-256 `1332063de097f2bb0d8577313e4bbe5e6863dd3aff24ecfefe315bbfee6b65fd`。在驗收與鎖定事項內優先適用。Candidate 雜湊 `83a9cffc…20cc` |
+| 第二章思想定位 | `智慧之海 cursor/cursor文檔/CH02_Intellectual_Positioning_v0.3_LOCKED.md` | **LOCKED v0.3。** 2026-10-15 作者批准。僅思想定位，不批准 2.1 正文。SHA-256 `979f2aeeb2d1bad1b2cde7bfc871d1437be3eab232b39c5046864dc931cb8260` |
 | 書稿編輯規程 | `智慧之海 cursor/AGENTS.md` | **操作規程。** 不構成正文批准，不取代上列基準 |
 
 ### Voyage｜航程（鎖定）
@@ -94,14 +102,16 @@
 | 1.3 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.0 | **2026-10-15 作者批准。** 正文與 Candidate v0.4 相同。英文 576 詞 |
 | 1.4 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.0 | **2026-10-15 交接核驗後鎖定。** 正文與 Candidate v0.1 相同。英文 569 詞 |
 | 1.5 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.0 | **2026-10-15 作者鎖定稿寫入。** 英文 714 詞 |
-| 2 | `智慧之海 cursor/Part_I_人/02_人的尺度.md` | V0.5 附於新基準之下 | **Draft｜先前第一章草稿，尚未按新核心問題改寫** |
+| 2 章首 | `智慧之海 cursor/Part_I_人/02_人的尺度.md` | Locked v1.0 | **2026-10-15 作者鎖定。** Opening Question｜哲學問題式。一句英中對照 |
+| 2.1–2.5 | `智慧之海 cursor/Part_I_人/02_人的尺度.md` | Locked v1.0 | **2026-10-15 作者鎖定稿寫入。** 英文 517、598、684、694、659 詞。舊 V0.5 已移入舊稿材料 |
+| 2 舊稿 | `智慧之海 cursor/舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md` | V0.5 | **舊稿。** 先前第一章草稿，不是第二章正文 |
 | — | `00-chatgpt-work-book/.../Part_VI_Artifact/Chapter_21` 至 `Chapter_24` | V0.2–V0.4 | **舊章名下的鎖定正文。** 不自動等於現行第17–20章 |
 
-先前第一章 V0.4 雜湊：`sha256:bfe96313f2c96a288c9182ec0bccc7d53213a5066a73a995295bd74b8e3fb112`。V0.5 草稿現附在第二章檔內。
+先前第一章 V0.4 雜湊：`sha256:bfe96313f2c96a288c9182ec0bccc7d53213a5066a73a995295bd74b8e3fb112`。V0.5 草稿在 `舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md`，不是第二章正文。
 
 舊人造之物修訂總表仍在：`.../Part_VI_Artifact/PART_VI_REVISION_REGISTER.md`。那是舊章名的快照。
 
-2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準。正文方面，第一章五節均已鎖定：1.1 為 Locked v1.1，1.2–1.5 為 Locked v1.0。
+2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準。正文方面，第一章五節均已鎖定：1.1 為 Locked v1.1，1.2–1.5 為 Locked v1.0。第二章章首引言與 2.1–2.5 為 Locked v1.0。章首是哲學問題式，不是散文章首。
 
 ### Chapter 2 Voice Debt｜第二章聲調債務（附於先前第一章 V0.5 草稿）
 

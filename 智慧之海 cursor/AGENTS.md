@@ -6,15 +6,36 @@
 
 正式指令的原文在 [`cursor文檔/00-Manuscript_Production_Instructions_v1.1_正文生產工作指令.md`](cursor文檔/00-Manuscript_Production_Instructions_v1.1_正文生產工作指令.md)。以下照錄該文件，作為本規程的正式指令。
 
-## 權威順序
+## 權威體系
 
-發生衝突時，依此停止，不自行取捨：
+作者最新的明確指示優先於本文件。以下是職責層級，不是「數字越小就整份覆蓋數字較大者」。
 
-1. 作者在當前指令中明確說出的範圍。
-2. 本文件所錄的正文生產工作指令 v1.1。
-3. [`cursor文檔/00-24_Chapter_Intellectual_Content_Lock_v1.0_二十四章獨立思想內容基準.md`](cursor文檔/00-24_Chapter_Intellectual_Content_Lock_v1.0_二十四章獨立思想內容基準.md)
-4. [`cursor文檔/00-120_Section_Structural_Baseline_v1.1_一百二十節結構基準.md`](00-120_Section_Structural_Baseline_v1.1_一百二十節結構基準.md)。節名、任務與六處邊界已鎖定。同目錄的 v1.0 只作歷史基準，不得用它把節名改回去。不得直接覆蓋 v1.1。
+歷史版本不可覆蓋。權威體系可以升級。新標準一經作者批准，就進入書稿生產，而不是停留在參考文件。
+
+1. 作者已批准的思想、章節與正文鎖定基準。決定內容與思想邊界。包括 [`cursor文檔/00-24_Chapter_Intellectual_Content_Lock_v1.0_二十四章獨立思想內容基準.md`](cursor文檔/00-24_Chapter_Intellectual_Content_Lock_v1.0_二十四章獨立思想內容基準.md)、[`cursor文檔/00-120_Section_Structural_Baseline_v1.1_一百二十節結構基準.md`](00-120_Section_Structural_Baseline_v1.1_一百二十節結構基準.md)，以及各章已鎖定正文。一百二十節 v1.0 只作歷史基準。不得直接覆蓋 v1.1，也不得用它把節名改回去。
+2. [`cursor文檔/00-EDITORIAL_STANDARD_v0.1_LOCKED_書稿編輯生產標準.md`](cursor文檔/00-EDITORIAL_STANDARD_v0.1_LOCKED_書稿編輯生產標準.md)。Approved & Locked v0.1。規定整體編輯原則與流程。原文不可改。不覆蓋已鎖定正文，不取代 Oceanic Prose Style Standard v1.0｜海海風寫作標準 v1.0。
+3. 本文件所錄的正文生產工作指令 v1.1。規定具體工作執行方式。原文不可改。正式副本在 [`cursor文檔/00-Manuscript_Production_Instructions_v1.1_正文生產工作指令.md`](cursor文檔/00-Manuscript_Production_Instructions_v1.1_正文生產工作指令.md)。
+4. 四份 Manuscript Editorial Standards v0.2。Approved & Locked。規定撰寫、修訂、驗證、驗收與鎖定的詳細操作、檢查與驗收。
 5. 編輯紅線、品牌隱去、用詞、句子、段落原則，以及 [`cursor文檔/00-LOCK_REGISTER_鎖定總表.md`](cursor文檔/00-LOCK_REGISTER_鎖定總表.md)。
+6. 工作稿、候選稿及研究紀錄。可追溯，不得覆蓋上列標準。
+
+四份專項標準：
+
+- [`cursor文檔/01_MANUSCRIPT_WRITING_STANDARD_v0.2_LOCKED.md`](cursor文檔/01_MANUSCRIPT_WRITING_STANDARD_v0.2_LOCKED.md)
+- [`cursor文檔/02_MANUSCRIPT_REVISION_STANDARD_v0.2_LOCKED.md`](cursor文檔/02_MANUSCRIPT_REVISION_STANDARD_v0.2_LOCKED.md)
+- [`cursor文檔/03_MANUSCRIPT_VALIDATION_STANDARD_v0.2_LOCKED.md`](cursor文檔/03_MANUSCRIPT_VALIDATION_STANDARD_v0.2_LOCKED.md)
+- [`cursor文檔/04_MANUSCRIPT_ACCEPTANCE_AND_LOCK_STANDARD_v0.2_LOCKED.md`](cursor文檔/04_MANUSCRIPT_ACCEPTANCE_AND_LOCK_STANDARD_v0.2_LOCKED.md)
+
+**優先適用：** 新批准的專項標準，在其明確管轄的事項內優先適用；不得自行推翻作者已鎖定的思想、正文與結構。敘事模式審查、段末去重、段落來源追溯，以及驗證標準所列的必要檢查，是後續正文生產的正式要求。
+
+**版本管理決議（2026-10-15 修正）：** 四份 Manuscript Editorial Standards v0.2 已經作者批准並正式鎖定，自批准日起納入《智慧之海》權威編輯標準體系。其所規範的撰寫、修訂、驗證及驗收事項，應作為後續書稿生產的正式執行依據。既有鎖定標準保留原版，後續透過建立新的整合版本完成升級；任何規範衝突應明確列出，不得默默覆蓋。
+
+這四份鎖定檔的檔頭仍寫「補充執行規範，不取代上述鎖定基準」。該句保護的是 v0.1 與 v1.1 的原文不可覆蓋。作者同日的這項修正把四份標準納入權威體系。不回改那四份已核對雜湊的原文。同名 Candidate 檔保留為批准前文本。
+
+整合候選尚未批准，不進入上列體系：
+
+- [`cursor文檔/00-EDITORIAL_STANDARD_v0.2_CANDIDATE_書稿編輯生產標準.md`](cursor文檔/00-EDITORIAL_STANDARD_v0.2_CANDIDATE_書稿編輯生產標準.md)
+- [`cursor文檔/00-Manuscript_Production_Instructions_v1.2_CANDIDATE_正文生產工作指令.md`](cursor文檔/00-Manuscript_Production_Instructions_v1.2_CANDIDATE_正文生產工作指令.md)
 
 `舊稿材料/`、`00-chatgpt-work-book/` 的 2026-09-23 快照、以及檔頭寫著提案的文稿，都不是現行正文。
 
@@ -233,12 +254,11 @@ OceanAI 用戶，以及對 AI、科技與人類未來感興趣的一般成年讀
 - 21.5 只寫後果如何改變共同世界的條件與關係。23.4 只寫這一變化如何沿著依存影響其他生命。
 - 4.5 建立跨越時間的責任。23.5 是 Within One Dependence｜處於同一依存，不第二次建立責任。
 
-## 現況（2026-10-14）
+## 現況（2026-10-15）
 
 第一章章首在 [`Part_I_人/00_章首.md`](Part_I_人/00_章首.md)，作者提供，本輪未新鎖定。  
-1.1 為 Approved & Locked v1.1，英文 513 詞。2026-10-14 作者解鎖並以鎖定稿覆蓋。見 [`Part_I_人/01_我們為何創造.md`](Part_I_人/01_我們為何創造.md)。  
-1.2 為 Approved & Locked v1.0，英文 694 詞。2026-10-15 作者鎖定稿覆蓋。  
-1.3 為 Approved & Locked v1.0，英文 576 詞。2026-10-15 作者批准，正文與 Candidate v0.4 相同。  
-1.4 為 Approved & Locked v1.0，英文 569 詞。2026-10-15 交接核驗，正文與 Candidate v0.1 相同。  
-1.5 為 Approved & Locked v1.0，英文 714 詞。2026-10-15 作者鎖定稿寫入。  
-第 3–24 章正文未寫。第 2 章檔內仍附舊的 V0.5，不是按現行核心問題寫的正文。
+1.1–1.5 均已鎖定。見 [`Part_I_人/01_我們為何創造.md`](Part_I_人/01_我們為何創造.md)。  
+章級驗收報告在 [`cursor文檔/OOW-CH01-ACCEPT-001_第一章章級驗收_v0.1.md`](cursor文檔/OOW-CH01-ACCEPT-001_第一章章級驗收_v0.1.md)。編輯審查有條件通過；整章正式驗收未完成。  
+作者決議：1.2 與結構基準的差異以鎖定稿為準，不改 1.2 正文，也不改一百二十節基準。Cursor 正式匯入驗證暫時不需要。這份報告不用來重開文字潤色。  
+第二章思想定位 v0.3 已鎖定，見 [`cursor文檔/CH02_Intellectual_Positioning_v0.3_LOCKED.md`](cursor文檔/CH02_Intellectual_Positioning_v0.3_LOCKED.md)。章首引言為 Approved & Locked v1.0，形式是 Opening Question｜哲學問題式。2.1–2.5 為 Approved & Locked v1.0。見 [`Part_I_人/02_人的尺度.md`](Part_I_人/02_人的尺度.md)。舊 V0.5 在 [`舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md`](舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md)，不是正文。第 3–24 章正文未寫。  
+撰寫、修訂、驗證、驗收與鎖定四份標準 v0.2 已納入權威體系。編輯生產標準 v0.2 與正文生產工作指令 v1.2 為整合候選，尚待作者批准。v0.1 與 v1.1 原文不改。
