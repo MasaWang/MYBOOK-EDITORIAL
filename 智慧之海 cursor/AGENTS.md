@@ -256,9 +256,8 @@ OceanAI 用戶，以及對 AI、科技與人類未來感興趣的一般成年讀
 
 ## 現況（2026-10-15）
 
-第一章章首在 [`Part_I_人/00_章首.md`](Part_I_人/00_章首.md)，作者提供，本輪未新鎖定。  
-1.1–1.5 均已鎖定。見 [`Part_I_人/01_我們為何創造.md`](Part_I_人/01_我們為何創造.md)。  
-章級驗收報告在 [`cursor文檔/OOW-CH01-ACCEPT-001_第一章章級驗收_v0.1.md`](cursor文檔/OOW-CH01-ACCEPT-001_第一章章級驗收_v0.1.md)。編輯審查有條件通過；整章正式驗收未完成。  
-作者決議：1.2 與結構基準的差異以鎖定稿為準，不改 1.2 正文，也不改一百二十節基準。Cursor 正式匯入驗證暫時不需要。這份報告不用來重開文字潤色。  
-第二章思想定位 v0.3 已鎖定，見 [`cursor文檔/CH02_Intellectual_Positioning_v0.3_LOCKED.md`](cursor文檔/CH02_Intellectual_Positioning_v0.3_LOCKED.md)。章首引言為 Approved & Locked v1.0，形式是 Opening Question｜哲學問題式。2.1–2.5 為 Approved & Locked v1.0。見 [`Part_I_人/02_人的尺度.md`](Part_I_人/02_人的尺度.md)。舊 V0.5 在 [`舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md`](舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md)，不是正文。第 3–24 章正文未寫。  
+第一章整章已於 2026-10-17 換成 `OOW-CH01_Why_We_Create_v1.0_LOCKED.md`。章首與 1.1–1.5 為 Approved & Locked v1.0，見 [`Part_I_人/01_我們為何創造.md`](Part_I_人/01_我們為何創造.md) 與 [`Part_I_人/00_章首.md`](Part_I_人/00_章首.md)。節名以這份鎖定稿為準。一百二十節基準 v1.1 的舊節名未改。先前交接鎖定稿在 [`舊稿材料/Part_I_人_01_我們為何創造_2026-10-15_交接鎖定稿.md`](舊稿材料/Part_I_人_01_我們為何創造_2026-10-15_交接鎖定稿.md)。  
+章級驗收報告在 [`cursor文檔/OOW-CH01-ACCEPT-001_第一章章級驗收_v0.1.md`](cursor文檔/OOW-CH01-ACCEPT-001_第一章章級驗收_v0.1.md)。它審查的是 2026-10-15 交接稿，不是這份整章 v1.0。  
+第二章思想定位 v0.3 已鎖定，見 [`cursor文檔/CH02_Intellectual_Positioning_v0.3_LOCKED.md`](cursor文檔/CH02_Intellectual_Positioning_v0.3_LOCKED.md)。章首引言為 Approved & Locked v1.0，形式是 Opening Question｜哲學問題式。2.1–2.5 為 Approved & Locked v1.0。見 [`Part_I_人/02_人的尺度.md`](Part_I_人/02_人的尺度.md)。舊 V0.5 在 [`舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md`](舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md)，不是正文。  
+第三章 3.1 為 Approved & Locked v1.1，3.2–3.4 為 Approved & Locked v1.0，見 [`Part_I_人/03_超越我們的意圖.md`](Part_I_人/03_超越我們的意圖.md)。3.2 英文 487 詞，3.3 英文 453 詞，都低於每節 500 詞的目標，作者鎖定稿不刪改。3.5 不在本檔。整章尚未鎖定。第 4–24 章正文未寫。  
 撰寫、修訂、驗證、驗收與鎖定四份標準 v0.2 已納入權威體系。編輯生產標準 v0.2 與正文生產工作指令 v1.2 為整合候選，尚待作者批准。v0.1 與 v1.1 原文不改。

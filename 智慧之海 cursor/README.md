@@ -19,8 +19,9 @@
 
 | 範圍 | 位置 | 狀態 |
 |---|---|---|
-| 第1章 | [`Part_I_人/01_我們為何創造.md`](Part_I_人/01_我們為何創造.md) | 1.1 已鎖定 v1.1，英文 513 詞。1.2 已鎖定 v1.0，英文 694 詞。1.3 已鎖定 v1.0，英文 576 詞。1.4 已鎖定 v1.0，英文 569 詞。1.5 已鎖定 v1.0，英文 714 詞 |
-| 第3–24章 | 各部章檔 | 2026-10-11 思想基準。正文待寫 |
+| 第1章 | [`Part_I_人/01_我們為何創造.md`](Part_I_人/01_我們為何創造.md) | 2026-10-16 整章鎖定稿 v1.0。章首英文 200 詞。1.1–1.5 英文 614、634、608、659、658 詞。節名已換。先前交接稿在舊稿材料 |
+| 第3章 | [`Part_I_人/03_超越我們的意圖.md`](Part_I_人/03_超越我們的意圖.md) | 3.1 已鎖定 v1.1，英文 579 詞。3.2–3.4 已鎖定 v1.0，英文 487、453、537 詞。3.5 不在本檔。整章尚未鎖定 |
+| 第4–24章 | 各部章檔 | 2026-10-11 思想基準。正文待寫 |
 | 第2章 | [`Part_I_人/02_人的尺度.md`](Part_I_人/02_人的尺度.md) | 思想定位 v0.3 已鎖定。章首引言已鎖定 v1.0，哲學問題式。2.1–2.5 已鎖定 v1.0，英文 517、598、684、694、659 詞。舊 V0.5 在舊稿材料 |
 
 ## Editorial Baselines｜編輯基準
@@ -33,7 +34,7 @@
 - **正文生產工作指令 v1.1**：[`cursor文檔/00-Manuscript_Production_Instructions_v1.1_正文生產工作指令.md`](cursor文檔/00-Manuscript_Production_Instructions_v1.1_正文生產工作指令.md)
 - **書稿編輯生產標準 v0.1（已鎖定，原文不改）**：[`cursor文檔/00-EDITORIAL_STANDARD_v0.1_LOCKED_書稿編輯生產標準.md`](cursor文檔/00-EDITORIAL_STANDARD_v0.1_LOCKED_書稿編輯生產標準.md)。不覆蓋已鎖定正文，不取代海海風 v1.0
 - **書稿編輯生產標準 v0.2（整合候選，未批准）**：[`cursor文檔/00-EDITORIAL_STANDARD_v0.2_CANDIDATE_書稿編輯生產標準.md`](cursor文檔/00-EDITORIAL_STANDARD_v0.2_CANDIDATE_書稿編輯生產標準.md)
-- **正文生產工作指令 v1.2（整合候選，未批准）**：[`cursor文檔/00-Manuscript_Production_Instructions_v1.2_CANDIDATE_正文生產工作指令.md`](cursor文檔/00-Manuscript_Production_Instructions_v1.2_CANDIDATE_正文生產工作指令.md)
+- **正文生產工作指令 v1.2（已鎖定，現行）**：[`cursor文檔/00-Manuscript_Production_Instructions_v1.2_LOCKED_正文生產工作指令.md`](cursor文檔/00-Manuscript_Production_Instructions_v1.2_LOCKED_正文生產工作指令.md)。v1.1 原文保留。鎖定稿規定這次不改寫 `AGENTS.md`。同資料夾的 v1.2 Candidate 是較早的另一份文本
 - **撰寫／修訂／驗證／驗收與鎖定標準 v0.2（已鎖定，納入權威體系）**：[`cursor文檔/01_MANUSCRIPT_WRITING_STANDARD_v0.2_LOCKED.md`](cursor文檔/01_MANUSCRIPT_WRITING_STANDARD_v0.2_LOCKED.md)、[`02`](cursor文檔/02_MANUSCRIPT_REVISION_STANDARD_v0.2_LOCKED.md)、[`03`](cursor文檔/03_MANUSCRIPT_VALIDATION_STANDARD_v0.2_LOCKED.md)、[`04`](cursor文檔/04_MANUSCRIPT_ACCEPTANCE_AND_LOCK_STANDARD_v0.2_LOCKED.md)。在各自管轄事項內優先適用。同名 Candidate 檔為批准前文本
 - **第二章思想定位 v0.3（已鎖定；不批准正文）**：[`cursor文檔/CH02_Intellectual_Positioning_v0.3_LOCKED.md`](cursor文檔/CH02_Intellectual_Positioning_v0.3_LOCKED.md)
 - 最高結構紅線：[`cursor文檔/00-Editorial_Red_Line_編輯紅線.md`](cursor文檔/00-Editorial_Red_Line_編輯紅線.md)

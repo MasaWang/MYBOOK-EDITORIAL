@@ -37,7 +37,7 @@
 | 正文生產流程 | `智慧之海 cursor/cursor文檔/00-Manuscript_Production_Instructions_v1.1_正文生產工作指令.md` | **工作指令 v1.1。** 不構成正文批准 |
 | 書稿編輯生產標準 | `智慧之海 cursor/cursor文檔/00-EDITORIAL_STANDARD_v0.1_LOCKED_書稿編輯生產標準.md` | **LOCKED v0.1。** 2026-10-15 作者批准。SHA-256 `613ac0ed2e47e3e6b596c2fbdb429cd7e52b7908a4a7e66d4ed14574a5b5cb82`。原文不改。不覆蓋已鎖定正文，不取代海海風 v1.0 |
 | 書稿編輯生產標準 v0.2 | `智慧之海 cursor/cursor文檔/00-EDITORIAL_STANDARD_v0.2_CANDIDATE_書稿編輯生產標準.md` | **Candidate。** 整合候選，尚待作者批准。不覆蓋 v0.1 |
-| 正文生產工作指令 v1.2 | `智慧之海 cursor/cursor文檔/00-Manuscript_Production_Instructions_v1.2_CANDIDATE_正文生產工作指令.md` | **Candidate。** 整合候選，尚待作者批准。不覆蓋 v1.1 |
+| 正文生產工作指令 v1.2 | `智慧之海 cursor/cursor文檔/00-Manuscript_Production_Instructions_v1.2_LOCKED_正文生產工作指令.md` | **LOCKED v1.2。** 2026-10-15 作者批准，取代 v1.1 成為現行工作指令。SHA-256 `13b8f41f6ce675a4a32b1a15ca0cca4d8bc5b0ce14601ee221c7e9e110f68a25`。v1.1 原文保留。本檔規定不改寫 `AGENTS.md`。早先的 v1.2 Candidate 是另一份文本，不是這份鎖定稿 |
 | 書稿撰寫標準 | `智慧之海 cursor/cursor文檔/01_MANUSCRIPT_WRITING_STANDARD_v0.2_LOCKED.md` | **LOCKED v0.2。** 2026-10-15 作者批准，納入權威體系。SHA-256 `fae3e569409cc7fcdf696e9e8802d1873fa4b10d2ebb94a2cf30924a8e5c4fcf`。在撰寫事項內優先適用。Candidate 雜湊 `3f7f6688…6efb` |
 | 書稿修訂標準 | `智慧之海 cursor/cursor文檔/02_MANUSCRIPT_REVISION_STANDARD_v0.2_LOCKED.md` | **LOCKED v0.2。** 2026-10-15 作者批准，納入權威體系。SHA-256 `a83e643e3317880e229e9579a72ad1e1aa1068829003e0f3b8aaa97b8b46f986`。在修訂事項內優先適用。Candidate 雜湊 `ee6e3915…1294` |
 | 書稿驗證標準 | `智慧之海 cursor/cursor文檔/03_MANUSCRIPT_VALIDATION_STANDARD_v0.2_LOCKED.md` | **LOCKED v0.2。** 2026-10-15 作者批准，納入權威體系。SHA-256 `7cd9b35e41bbc00ad18a10f11dc0250ebe6c138d5a1275f4082cf98eee5fc7f9`。在驗證事項內優先適用。Candidate 雜湊 `1c1af6a3…e6b7` |
@@ -97,21 +97,23 @@
 
 | 章 | 文件 | 版本 | 狀態 |
 |---|---|---|---|
-| 1.1 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.1 | **2026-10-14 作者解鎖並以鎖定稿覆蓋。** 英文 513 詞。v1.0 為前一鎖定稿 |
-| 1.2 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.0 | **2026-10-15 作者鎖定稿覆蓋。** 英文 694 詞 |
-| 1.3 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.0 | **2026-10-15 作者批准。** 正文與 Candidate v0.4 相同。英文 576 詞 |
-| 1.4 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.0 | **2026-10-15 交接核驗後鎖定。** 正文與 Candidate v0.1 相同。英文 569 詞 |
-| 1.5 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.0 | **2026-10-15 作者鎖定稿寫入。** 英文 714 詞 |
+| 1 整章 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.0 | **2026-10-17 作者指示整章替換。** 來源 `OOW-CH01_Why_We_Create_v1.0_LOCKED.md`，鎖定日期 2026-10-16。SHA-256 `43b60e719ac4471747dc63516ed6fe0afa122aa077a3bc691215b5509b70cdf7`。章首 200 詞。1.1–1.5 英文 614、634、608、659、658 詞。節名：Beyond What Is｜超越既有；Giving Form｜賦予形式；A World Not Ours Alone｜世界不只屬於我們；Within the Universe｜在宇宙之中；Live Well｜何以好好生活 |
+| 1 舊稿 | `智慧之海 cursor/舊稿材料/Part_I_人_01_我們為何創造_2026-10-15_交接鎖定稿.md` | 先前鎖定 | **歷史稿。** 1.1 v1.1 與 1.2–1.5 v1.0。不是現行正文 |
+| 1 舊章首 | `智慧之海 cursor/舊稿材料/Part_I_人_00_章首_機器三段.md` | 先前章首 | **歷史稿。** 機器、汽車、輪船、飛機三段。不是現行章首 |
 | 2 章首 | `智慧之海 cursor/Part_I_人/02_人的尺度.md` | Locked v1.0 | **2026-10-15 作者鎖定。** Opening Question｜哲學問題式。一句英中對照 |
 | 2.1–2.5 | `智慧之海 cursor/Part_I_人/02_人的尺度.md` | Locked v1.0 | **2026-10-15 作者鎖定稿寫入。** 英文 517、598、684、694、659 詞。舊 V0.5 已移入舊稿材料 |
 | 2 舊稿 | `智慧之海 cursor/舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md` | V0.5 | **舊稿。** 先前第一章草稿，不是第二章正文 |
+| 3.1 | `智慧之海 cursor/Part_I_人/03_超越我們的意圖.md` | Locked v1.1 | **2026-10-16 作者鎖定稿寫入。** 英文 579 詞。SHA-256 `5396ed264654872e0f4e9a43300ff877961cbdc01c2767bb3aff30ac79505226`。P2–P4 為 v1.1；P1、P5、P6 沿用 v1.0。v1.0 不在本檔 |
+| 3.2 | `智慧之海 cursor/Part_I_人/03_超越我們的意圖.md` | Locked v1.0 | **2026-10-16 作者鎖定稿寫入。** 英文 487 詞，低於 500 詞目標，不改鎖定稿。SHA-256 `2d0d36de793bc7881e9a0a7effb8964a2d0d3874d9ce24e5187cbc0404ffbd51`。底稿 Candidate v0.6 |
+| 3.3 | `智慧之海 cursor/Part_I_人/03_超越我們的意圖.md` | Locked v1.0 | **2026-10-16 作者鎖定稿寫入。** 英文 453 詞，低於 500 詞目標，不改鎖定稿。SHA-256 `1db3f8a5212d0595b9b34f33bfe1c898a1d051095c5fc762e624b3963a349c89`。來源 Candidate v0.8 |
+| 3.4 | `智慧之海 cursor/Part_I_人/03_超越我們的意圖.md` | Locked v1.0 | **2026-10-16 作者鎖定稿寫入。** 英文 537 詞。來源 Candidate v0.7，未改句子。3.5 不在本檔 |
 | — | `00-chatgpt-work-book/.../Part_VI_Artifact/Chapter_21` 至 `Chapter_24` | V0.2–V0.4 | **舊章名下的鎖定正文。** 不自動等於現行第17–20章 |
 
 先前第一章 V0.4 雜湊：`sha256:bfe96313f2c96a288c9182ec0bccc7d53213a5066a73a995295bd74b8e3fb112`。V0.5 草稿在 `舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md`，不是第二章正文。
 
 舊人造之物修訂總表仍在：`.../Part_VI_Artifact/PART_VI_REVISION_REGISTER.md`。那是舊章名的快照。
 
-2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準。正文方面，第一章五節均已鎖定：1.1 為 Locked v1.1，1.2–1.5 為 Locked v1.0。第二章章首引言與 2.1–2.5 為 Locked v1.0。章首是哲學問題式，不是散文章首。
+2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準，但第一章正文自 2026-10-17 起以整章鎖定稿的節名為準，一百二十節檔未改。正文方面，第一章整章為 Locked v1.0。第二章章首引言與 2.1–2.5 為 Locked v1.0。章首是哲學問題式，不是散文章首。第三章 3.1 為 Locked v1.1，3.2–3.4 為 Locked v1.0。整章尚未鎖定。
 
 ### Chapter 2 Voice Debt｜第二章聲調債務（附於先前第一章 V0.5 草稿）
 
