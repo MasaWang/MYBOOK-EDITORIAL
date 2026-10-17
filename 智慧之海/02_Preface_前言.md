@@ -1,6 +1,6 @@
 # Preface｜前言
 
-## From Intelligence to Human Life｜從智能到人的生活
+## From Intelligence to Human Life
 
 ### English Source｜American English
 
@@ -20,7 +20,7 @@ These questions became the intellectual origin of OceanAI.
 
 They also became the starting point of this book.
 
-### Wisdom and Intelligence｜智慧與智能
+### Wisdom and Intelligence
 
 The title *Ocean of Intelligence* begins with an important distinction.
 
@@ -54,7 +54,7 @@ This book therefore begins with intelligence, but it does not end there.
 
 Its destination is human life.
 
-### From Interface to Physical Space｜從介面進入物理空間
+### From Interface to Physical Space
 
 For most of the history of computing, people have approached intelligence through interfaces.
 
@@ -108,7 +108,7 @@ The deeper challenge is to allow intelligence to become part of physical space w
 
 This principle runs throughout the book.
 
-### Space and Environment｜空間與環境
+### Space and Environment
 
 Two words will appear repeatedly in the pages that follow: *Space* and *Environment*.
 
@@ -128,21 +128,7 @@ In this sense, *Environment* belongs increasingly to the language of experience,
 
 The distinction gives us an important progression:
 
-```text
-Physical Space｜物理空間
-        ↓
-Intelligence Enters｜智能進入
-        ↓
-Runtime Operates｜運行時運行
-        ↓
-Conditions Interact｜條件相互作用
-        ↓
-Environment｜環境
-        ↓
-Human Experience｜人的體驗
-        ↓
-Human Life｜人的生活
-```
+
 
 Space is where intelligence enters and operates.
 
@@ -162,23 +148,7 @@ State must persist. Events must move. Actions must reach the correct destination
 
 This is where architecture enters the story.
 
-```text
-Artificial Intelligence｜人工智慧
-        ↓
-Intelligence｜智能
-        ↓
-Architecture｜架構
-        ↓
-System｜系統
-        ↓
-Runtime｜運行時
-        ↓
-Physical Space｜物理空間
-        ↓
-Environment｜環境
-        ↓
-Human Life｜人的生活
-```
+
 
 This sequence is not intended as a rigid technical stack.
 
@@ -196,7 +166,7 @@ We then enter physical space.
 
 And finally, we ask what all of this means for the environment in which people live.
 
-### Continuity｜連續性
+### Continuity
 
 Physical life does not operate in isolated sessions.
 
@@ -236,31 +206,10 @@ Architecture asks how intelligence should be organized.
 
 The ethics of continuity asks what responsibilities arise when that intelligence becomes persistent within human life.
 
-### The Course of This Book｜本書的思想航線
+### The Course of This Book
 
 The voyage of *Ocean of Intelligence* therefore follows a deliberate course:
 
-```text
-Wisdom｜智慧
-        ↓
-Artificial Intelligence｜人工智慧
-        ↓
-Intelligence｜智能
-        ↓
-Architecture｜架構
-        ↓
-Continuity｜連續性
-        ↓
-Runtime｜運行時
-        ↓
-Physical Space｜物理空間
-        ↓
-Environment｜環境
-        ↓
-Human Life｜人的生活
-        ↓
-Symbiosis｜共生
-```
 
 Each stage asks a different question.
 
@@ -434,21 +383,7 @@ OceanAI 誕生於一個關於人工智慧未來的問題，但它並不是今天
 
 二者形成一條重要關係：
 
-```text
-Physical Space｜物理空間
-        ↓
-Intelligence Enters｜智能進入
-        ↓
-Runtime Operates｜運行時運行
-        ↓
-Conditions Interact｜條件相互作用
-        ↓
-Environment｜環境
-        ↓
-Human Experience｜人的體驗
-        ↓
-Human Life｜人的生活
-```
+
 
 **空間是智能進入並運行的地方；環境是智能圍繞人的生活所參與塑造的整體狀態。**
 
@@ -466,23 +401,7 @@ Human Life｜人的生活
 
 架構由此進入這場航程。
 
-```text
-Artificial Intelligence｜人工智慧
-        ↓
-Intelligence｜智能
-        ↓
-Architecture｜架構
-        ↓
-System｜系統
-        ↓
-Runtime｜運行時
-        ↓
-Physical Space｜物理空間
-        ↓
-Environment｜環境
-        ↓
-Human Life｜人的生活
-```
+
 
 這不是一個僵硬的 Technology Stack｜技術堆疊。
 
@@ -548,27 +467,7 @@ Runtime 不只是一種軟體機制。
 
 因此，《智慧之海》的航程沿著一條有意識建立的航線展開：
 
-```text
-Wisdom｜智慧
-        ↓
-Artificial Intelligence｜人工智慧
-        ↓
-Intelligence｜智能
-        ↓
-Architecture｜架構
-        ↓
-Continuity｜連續性
-        ↓
-Runtime｜運行時
-        ↓
-Physical Space｜物理空間
-        ↓
-Environment｜環境
-        ↓
-Human Life｜人的生活
-        ↓
-Symbiosis｜共生
-```
+
 
 每一段航程，都提出不同的問題。
 
