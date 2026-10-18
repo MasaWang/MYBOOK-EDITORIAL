@@ -97,7 +97,7 @@
 
 | 章 | 文件 | 版本 | 狀態 |
 |---|---|---|---|
-| 1 整章 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.0 | **2026-10-17 作者指示整章替換。** 來源 `OOW-CH01_Why_We_Create_v1.0_LOCKED.md`，鎖定日期 2026-10-16。SHA-256 `43b60e719ac4471747dc63516ed6fe0afa122aa077a3bc691215b5509b70cdf7`。章首 200 詞。1.1–1.5 英文 614、634、608、659、658 詞。節名：Beyond What Is｜超越既有；Giving Form｜賦予形式；A World Not Ours Alone｜世界不只屬於我們；Within the Universe｜在宇宙之中；Live Well｜何以好好生活 |
+| 1 整章 | `智慧之海 cursor/Part_I_人/01_我們為何創造.md` | Locked v1.1 | **2026-10-18 作者鎖定稿修訂開場句與章首第一段。** 來源 `OOW-CH01_Why_We_Create_v1.1_LOCKED.md`。v1.0 整章雜湊 `43b60e719ac4471747dc63516ed6fe0afa122aa077a3bc691215b5509b70cdf7`。開場句 10 詞。章首兩段 79、103 詞。1.1–1.5 未改，英文 614、634、608、659、658 詞。節名：Beyond What Is｜超越既有；Giving Form｜賦予形式；A World Not Ours Alone｜世界不只屬於我們；Within the Universe｜在宇宙之中；Live Well｜何以好好生活 |
 | 1 舊稿 | `智慧之海 cursor/舊稿材料/Part_I_人_01_我們為何創造_2026-10-15_交接鎖定稿.md` | 先前鎖定 | **歷史稿。** 1.1 v1.1 與 1.2–1.5 v1.0。不是現行正文 |
 | 1 舊章首 | `智慧之海 cursor/舊稿材料/Part_I_人_00_章首_機器三段.md` | 先前章首 | **歷史稿。** 機器、汽車、輪船、飛機三段。不是現行章首 |
 | 2 整章 | `智慧之海 cursor/Part_I_人/02_人的尺度.md` | Locked v2.2 | **2026-10-17 作者鎖定稿寫入。** 來源 `CH02_The_Human_Measure_v2.2_LOCKED.md`。正文 SHA-256 `e70ba524d0d50ccb5cc1d3067f4e06ddef4a67477352343c0bf6dfa07ea36e05` 覆鎖定稿。章首第一段其後由作者來稿替換，現行章首 152 詞。章首前的中文說明以「引言：」起首。2.1–2.5 英文 521、534、627、502、530 詞，句子未改。節名：The Value of Creation｜創造的價值；The Measure of Human Life｜人的生活尺度；The Art of Judgment｜判斷的藝術；The Boundaries of Intervention｜創造介入生活的邊界；The Continuing Measure｜持續的尺度 |
@@ -113,7 +113,7 @@
 
 舊人造之物修訂總表仍在：`.../Part_VI_Artifact/PART_VI_REVISION_REGISTER.md`。那是舊章名的快照。
 
-2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準，但第一章正文自 2026-10-17 起以整章鎖定稿的節名為準，一百二十節檔未改。正文方面，第一章整章為 Locked v1.0。第二章整章自 2026-10-17 起為 Locked v2.2，節名以該鎖定稿為準，一百二十節檔未改。第三章 3.1 為 Locked v1.1，3.2–3.4 為 Locked v1.0。整章尚未鎖定。
+2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準，但第一章正文自 2026-10-17 起以整章鎖定稿的節名為準，一百二十節檔未改。正文方面，第一章整章自 2026-10-18 起為 Locked v1.1，修訂僅開場句與章首第一段。第二章整章自 2026-10-17 起為 Locked v2.2，節名以該鎖定稿為準，一百二十節檔未改。第三章 3.1 為 Locked v1.1，3.2–3.4 為 Locked v1.0。整章尚未鎖定。
 
 ### Chapter 2 Voice Debt｜第二章聲調債務（附於先前第一章 V0.5 草稿）
 
