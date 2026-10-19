@@ -103,10 +103,12 @@
 | 2 整章 | `智慧之海 cursor/Part_I_人/02_人的尺度.md` | Locked v2.2 | **2026-10-17 作者鎖定稿寫入。** 來源 `CH02_The_Human_Measure_v2.2_LOCKED.md`。正文 SHA-256 `e70ba524d0d50ccb5cc1d3067f4e06ddef4a67477352343c0bf6dfa07ea36e05` 覆鎖定稿。章首第一段其後由作者來稿替換，現行章首 152 詞。章首前的中文說明以「引言：」起首。2.1–2.5 英文 521、534、627、502、530 詞，句子未改。節名：The Value of Creation｜創造的價值；The Measure of Human Life｜人的生活尺度；The Art of Judgment｜判斷的藝術；The Boundaries of Intervention｜創造介入生活的邊界；The Continuing Measure｜持續的尺度 |
 | 2 舊稿 v1.0 | `智慧之海 cursor/舊稿材料/Part_I_人_02_人的尺度_2026-10-15_v1.0_鎖定稿.md` | Locked v1.0 | **歷史稿。** 2026-10-15 章首問題與 2.1–2.5。不是現行正文 |
 | 2 舊稿 | `智慧之海 cursor/舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md` | V0.5 | **舊稿。** 先前第一章草稿，不是第二章正文 |
-| 3.1 | `智慧之海 cursor/Part_I_人/03_超越我們的意圖.md` | Locked v1.1 | **2026-10-16 作者鎖定稿寫入。** 英文 579 詞。SHA-256 `5396ed264654872e0f4e9a43300ff877961cbdc01c2767bb3aff30ac79505226`。P2–P4 為 v1.1；P1、P5、P6 沿用 v1.0。v1.0 不在本檔 |
-| 3.2 | `智慧之海 cursor/Part_I_人/03_超越我們的意圖.md` | Locked v1.0 | **2026-10-16 作者鎖定稿寫入。** 英文 487 詞，低於 500 詞目標，不改鎖定稿。SHA-256 `2d0d36de793bc7881e9a0a7effb8964a2d0d3874d9ce24e5187cbc0404ffbd51`。底稿 Candidate v0.6 |
-| 3.3 | `智慧之海 cursor/Part_I_人/03_超越我們的意圖.md` | Locked v1.0 | **2026-10-16 作者鎖定稿寫入。** 英文 453 詞，低於 500 詞目標，不改鎖定稿。SHA-256 `1db3f8a5212d0595b9b34f33bfe1c898a1d051095c5fc762e624b3963a349c89`。來源 Candidate v0.8 |
-| 3.4 | `智慧之海 cursor/Part_I_人/03_超越我們的意圖.md` | Locked v1.0 | **2026-10-16 作者鎖定稿寫入。** 英文 537 詞。來源 Candidate v0.7，未改句子。3.5 不在本檔 |
+| 3 整章 | `智慧之海 cursor/Part_I_人/03_超越我們的意圖.md` | Locked v0.5 | **2026-10-19 作者鎖定稿整章替換。** 來源 `CH03_Beyond_Our_Intentions_v0.5_LOCKED`。作者批准 2026-10-18。SHA-256 `57b919eb0042c74c543b96c1c010901be2e88ba0f23c8d9677add1516046f0b6`。出版句 18 詞。章首兩段 66、73 詞。3.1–3.5 英文 374、354、349、375、389 詞，低於 500 詞目標，不增刪。節名：The Intention to Create｜創造的意圖；A Creation in a Changing World｜變化世界中的創造物；Unexpected Uses and Discoveries｜未曾預見的用途與發現；Consequences Beyond Control｜超越控制的後果；Reconsidering Our Intentions｜重新審視我們的意圖。一百二十節 3.2、3.3、3.5 舊節名未改 |
+| 3 舊稿 | `智慧之海 cursor/舊稿材料/Part_I_人_03_超越我們的意圖_2026-10-16_3.1-3.4_鎖定稿.md` | 先前鎖定 | **歷史稿。** 3.1 v1.1 與 3.2–3.4 v1.0。3.5 不在該稿。不是現行正文 |
+| 3.1 | 同上舊稿 | Locked v1.1 | **已被 v0.5 整章取代。** 英文 579 詞。SHA-256 `5396ed264654872e0f4e9a43300ff877961cbdc01c2767bb3aff30ac79505226`。P2–P4 為 v1.1；P1、P5、P6 沿用 v1.0 |
+| 3.2 | 同上舊稿 | Locked v1.0 | **已被 v0.5 整章取代。** 英文 487 詞。SHA-256 `2d0d36de793bc7881e9a0a7effb8964a2d0d3874d9ce24e5187cbc0404ffbd51` |
+| 3.3 | 同上舊稿 | Locked v1.0 | **已被 v0.5 整章取代。** 英文 453 詞。SHA-256 `1db3f8a5212d0595b9b34f33bfe1c898a1d051095c5fc762e624b3963a349c89` |
+| 3.4 | 同上舊稿 | Locked v1.0 | **已被 v0.5 整章取代。** 英文 537 詞。來源 Candidate v0.7 |
 | 4 整章 | `智慧之海 cursor/Part_I_人/04_創造的責任.md` | Candidate v4.5 | **2026-10-19 作者候選稿寫入。待審閱，未鎖定。** 來源 `CH04_The_Responsibility_of_Creation_v4.5_Natural_Traditional_Chinese_CANDIDATE.md`。SHA-256 `e5b0dea8af143548b8a7af029644587fa79ada4ee163f8a93a78dfe2640efb8b`。引言 29 詞，章首 33 詞。4.1–4.5 英文 390、369、383、388、402 詞，不增刪。節名：Responsibility Begins with Creation｜責任始於創造；The Power of Responsibility｜責任的力量；The Foundations of Trust｜信賴的基礎；Commitment and Order｜承諾與秩序；Responsible Creation｜負責任的創造。一百二十節 4.2–4.5 舊節名未改 |
 | — | `00-chatgpt-work-book/.../Part_VI_Artifact/Chapter_21` 至 `Chapter_24` | V0.2–V0.4 | **舊章名下的鎖定正文。** 不自動等於現行第17–20章 |
 
@@ -114,7 +116,7 @@
 
 舊人造之物修訂總表仍在：`.../Part_VI_Artifact/PART_VI_REVISION_REGISTER.md`。那是舊章名的快照。
 
-2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準，但第一章正文自 2026-10-17 起以整章鎖定稿的節名為準，一百二十節檔未改。正文方面，第一章整章自 2026-10-18 起為 Locked v1.1，修訂僅開場句與章首第一段。第二章整章自 2026-10-17 起為 Locked v2.2，節名以該鎖定稿為準，一百二十節檔未改。第三章 3.1 為 Locked v1.1，3.2–3.4 為 Locked v1.0。整章尚未鎖定。第四章正文自 2026-10-19 起為 Candidate v4.5，尚未鎖定。
+2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準，但第一章正文自 2026-10-17 起以整章鎖定稿的節名為準，一百二十節檔未改。正文方面，第一章整章自 2026-10-18 起為 Locked v1.1，修訂僅開場句與章首第一段。第二章整章自 2026-10-17 起為 Locked v2.2，節名以該鎖定稿為準，一百二十節檔未改。第三章整章自 2026-10-19 起為 Locked v0.5，先前 3.1–3.4 改存舊稿材料。第四章正文自 2026-10-19 起為 Candidate v4.5，尚未鎖定。
 
 ### Chapter 2 Voice Debt｜第二章聲調債務（附於先前第一章 V0.5 草稿）
 
