@@ -56,13 +56,18 @@
 - [Why an Ocean?｜為什麼是海](cursor文檔/01_Opening_Why_an_Ocean_為什麼是海_LOCKED.md) — **LOCKED**
 - [Preface｜前言](智慧之海%20cursor/Part_0_前面部/01-Preface｜前言%20—%20Revised%20Draft｜修訂稿.md) — Revised draft
 
-同資料夾裡、不進入正文的工作筆記：
+同資料夾裡的內部六部基準：[`cursor文檔/00-Six_Part_Structure_六部結構_V0.2.md`](cursor文檔/00-Six_Part_Structure_六部結構_V0.2.md)。
 
-- [`cursor文檔/00-Six_Part_Structure_六部結構_V0.2.md`](cursor文檔/00-Six_Part_Structure_六部結構_V0.2.md) — 內部六部基準
-- [`26問-目錄-歸類.md`](智慧之海%20cursor/cursor文檔/26問-目錄-歸類.md) — 舊 26 問對照現行航程
-- [`cursor文檔/Essay_Intelligence_Continuity_Wisdom_智能持續性與智慧.md`](cursor文檔/Essay_Intelligence_Continuity_Wisdom_智能持續性與智慧.md) — 論文式骨架，不是章
-- [`cursor文檔/本書定位.md`](cursor文檔/本書定位.md) — 較早定位稿（仍含 OceanAI 書名）。權威本是 `cursor文檔/00-Core_Positioning_核心定位_V0.1.md`
-- [`cursor文檔/段落與小節-候選原則.md`](cursor文檔/段落與小節-候選原則.md) — 待審，尚未成為編輯基準
+不進入正文的工作筆記在 [`cursor文檔/工作筆記/`](cursor文檔/工作筆記/)：
+
+- [`26問-目錄-歸類.md`](cursor文檔/工作筆記/26問-目錄-歸類.md) — 舊 26 問對照現行航程
+- [`6部24章-對話成果報告01-06.md`](cursor文檔/工作筆記/6部24章-對話成果報告01-06.md) — 對話紀錄，不是基準
+- [`OOW-IR-20261019-001_六部思想架構與人類活動_對話成果報告.md`](cursor文檔/工作筆記/OOW-IR-20261019-001_六部思想架構與人類活動_對話成果報告.md) — 2026-10-19 研究紀錄。候選，尚未逐項批准，不改基準與正文
+- [`Chapter_01_1.1_Review_2026-10-11_自我編輯評價.md`](cursor文檔/工作筆記/Chapter_01_1.1_Review_2026-10-11_自我編輯評價.md) — 第一章第一節自我評價
+- [`OOW-ER-20261011-001_第一章第一節編輯成果報告.md`](cursor文檔/工作筆記/OOW-ER-20261011-001_第一章第一節編輯成果報告.md) — 編輯成果報告
+- [`Essay_Intelligence_Continuity_Wisdom_智能持續性與智慧.md`](cursor文檔/工作筆記/Essay_Intelligence_Continuity_Wisdom_智能持續性與智慧.md) — 論文式骨架，不是章
+- [`本書定位.md`](cursor文檔/工作筆記/本書定位.md) — 較早定位稿（仍含 OceanAI 書名）。權威本在 `Part_0_前面部/00-Core_Positioning_核心定位_V0.1.md`
+- [`段落與小節-候選原則.md`](cursor文檔/工作筆記/段落與小節-候選原則.md) — 待審，尚未成為編輯基準
 
 ## Part I — Human｜人
 
