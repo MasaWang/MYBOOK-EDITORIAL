@@ -53,7 +53,7 @@
 ## Front Matter｜開篇與前言
 
 - [Opening｜開篇](智慧之海%20cursor/Part_0_前面部/01_Opening_開篇.md) — Revised draft
-- [Why an Ocean?｜為什麼是海](cursor文檔/01_Opening_Why_an_Ocean_為什麼是海_LOCKED.md) — **LOCKED**
+- [Why an Ocean?｜為什麼是海](cursor文檔/01_Opening_Why_an_Ocean_為什麼是海_LOCKED.md) — 2026-10-22 作者來稿。先前短稿在舊稿材料
 - [Preface｜前言](智慧之海%20cursor/Part_0_前面部/01-Preface｜前言%20—%20Revised%20Draft｜修訂稿.md) — Revised draft
 
 同資料夾裡的內部六部基準：[`cursor文檔/00-Six_Part_Structure_六部結構_V0.2.md`](cursor文檔/00-Six_Part_Structure_六部結構_V0.2.md)。
