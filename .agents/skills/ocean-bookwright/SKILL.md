@@ -9,6 +9,13 @@ description: 為《智慧之海》及非虛構英中書稿執行寫作：建立�
 
 本技能於 2026-10-24 改造自 Bookwright 的 12 項寫作命令；使用 EUPL-1.2，保留 LICENSE、NOTICE。這是改造版工作流程，不是原版 Bookwright CLI，也不代表具備其圖譜引擎。來源逐項記錄見 [source-review.md](references/source-review.md)，精確版本與 blob SHA 見 [source-manifest.json](references/source-manifest.json)。
 
+## 適用範圍與唯一來源
+
+- Skill 是工作方法，不是全書現行規格，也不是正文修改授權。先辨認新節起草、作者來稿照錄、局部修訂或只讀審閱；啟用技能不得自動套用歷史修訂清單。
+- 作者交來的句子照原文保存；沒有明確修訂要求，不按方法卡潤色、改寫或重排。新稿保存為獨立候選，不覆蓋作者來稿或現行正文。只有作者明確要求提交時，才將書稿變更提交／推送 GitHub。
+- 篇幅與段數依目標章的現行基準及當次指示。第五章的形式要求不適用第一至四章；不得為統一規格而裁短第一章、補長第三章或改動已凍結正文。
+- GitHub 唯一維護來源為 `MasaWang/MYBOOK-EDITORIAL/.agents/skills/ocean-bookwright/`。`智慧之海 cursor/.agents/skills/ocean-bookwright/` 是重複副本，不另行維護。去除副本前先比較未提交差異並保全獨有內容，不自動刪除未知修改。已安裝 Skill 是部署副本；更新前核對來源差異，不能宣稱兩者自動同步。
+
 ## 先選一個任務
 
 按使用者意圖選主要模式，閱讀工作流程文件中對應的小節再執行；不要依序跑完全部流程。使用者已提供小節 brief，就可以直接進入 draft，不強制補齊全書文件。下列是同一技能的模式名稱，不是另外安裝的 slash commands。
