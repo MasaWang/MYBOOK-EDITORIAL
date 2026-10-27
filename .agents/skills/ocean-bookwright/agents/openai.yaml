@@ -1,0 +1,13 @@
+interface:
+  display_name: 智慧之海寫作
+  short_description: 依據寫作基準完成正文、論證規劃與核查，維持局部修訂邊界
+  default_prompt: 使用 $ocean-bookwright，依我提供的基準完成指定小節；若已有正文，只修改我指定的範圍。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

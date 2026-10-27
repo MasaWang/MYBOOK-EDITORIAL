@@ -1,0 +1,116 @@
+{
+  "repository": "jmorenobl/bookwright",
+  "commit": "3174fbd6504638247e035864b3cf7854f823f910",
+  "scope": "12 authoring commands and 7 command references; excludes development speckit and release skills",
+  "files": [
+    {
+      "path": "src/bookwright/resources/commands/bookwright-analyze.md",
+      "blob_sha": "18d736a412b6ed4142f9a183d6ca3547651eb25d",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-analyze.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-bible.md",
+      "blob_sha": "05b77d1bf4f4f2900232f103924a7549d15f1d50",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-bible.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-checklist.md",
+      "blob_sha": "ca6f47fa552b05b45e7a5ef6a72f25ba0651488e",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-checklist.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-clarify.md",
+      "blob_sha": "d1d9f762711cb66d5b64bfb6a355beedc74f52d1",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-clarify.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-constitution.md",
+      "blob_sha": "0c01b5b70d4457474191093cadf1f9a5c52aa61e",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-constitution.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-continuity.md",
+      "blob_sha": "0f40740c5255bf6bbe86353d20324acf6aba0041",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-continuity.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-draft.md",
+      "blob_sha": "86d01c77c7dc357dea9915e9e1b8dd0188ebc64d",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-draft.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-outline.md",
+      "blob_sha": "cf93f1e2d227dd841cf6a126de0f53fea6695529",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-outline.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-research.md",
+      "blob_sha": "f620527e58a3b424e8f75f9585d8577b00d4c972",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-research.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-scenes.md",
+      "blob_sha": "0eb1190b21cc6b7595d93b25b0cf268e49166099",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-scenes.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-synopsis.md",
+      "blob_sha": "bbf11a5daf1172dc8c5f39ecab3a8880c991e1b9",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-synopsis.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/bookwright-verify.md",
+      "blob_sha": "f1186e73b740a53d358aa6cdd1c3949cd5f9650f",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/bookwright-verify.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/references/golem-character.md",
+      "blob_sha": "fcae55bf844060c07c316b0bb9065cf571488e5e",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/references/golem-character.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/references/golem-events-timeline.md",
+      "blob_sha": "fc3d0f0cea3a8079788d9a2861c50efb5fb62cc0",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/references/golem-events-timeline.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/references/golem-relationships.md",
+      "blob_sha": "8afcad12853c1680c75c75db183af0512c6c5227",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/references/golem-relationships.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/references/greimas-actants.md",
+      "blob_sha": "1c259d33c6524c994ddc382498ecfc53e9323129",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/references/greimas-actants.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/references/pending-protocol.md",
+      "blob_sha": "575cc0f4aa2e7017f928029db8f2ad57662162b3",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/references/pending-protocol.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/references/propp-functions.md",
+      "blob_sha": "caf8bb9bc724881f803ef2be506f1d68c4ef5c04",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/references/propp-functions.md"
+    },
+    {
+      "path": "src/bookwright/resources/commands/references/research-format.md",
+      "blob_sha": "3871eb6088b8421d0602a5f55d952a4c84820260",
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/resources/commands/references/research-format.md"
+    }
+  ],
+  "supporting_sources": [
+    {
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/integrations/materialize.py",
+      "blob_sha": "5d1462e4ec21098d04b347a0341bd10ecbf86403"
+    },
+    {
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/docs/concepts/authoring.md",
+      "blob_sha": "bd70dbfe4dda04ceedf8e1fc93945dd1cfca2849"
+    },
+    {
+      "url": "https://github.com/jmorenobl/bookwright/blob/3174fbd6504638247e035864b3cf7854f823f910/src/bookwright/integrations/constants.py",
+      "blob_sha": "1a0e063d16ee2da0914a9a370857e84c8e52b62e"
+    }
+  ]
+}
