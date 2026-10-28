@@ -68,7 +68,7 @@
 | 2 | The Human Measure | 人的尺度 |
 | 3 | Beyond Our Intentions | 超越我們的意圖 |
 | 4 | The Responsibility of Creation | 創造的責任 |
-| 5 | What We Build | 我們建構的世界 |
+| 5 | Intelligence Enters Space | 智能進入空間 |
 | 6 | Space Is Relational | 空間是關係性的 |
 | 7 | Time Dwells in Space | 時間寓於空間 |
 | 8 | Intelligence Without Intrusion | 不侵擾生活的智能 |
@@ -110,13 +110,15 @@
 | 3.3 | 同上舊稿 | Locked v1.0 | **已被 v0.5 整章取代。** 英文 453 詞。SHA-256 `1db3f8a5212d0595b9b34f33bfe1c898a1d051095c5fc762e624b3963a349c89` |
 | 3.4 | 同上舊稿 | Locked v1.0 | **已被 v0.5 整章取代。** 英文 537 詞。來源 Candidate v0.7 |
 | 4 整章 | `智慧之海 cursor/Part_I_人/04_創造的責任.md` | Candidate v4.5 | **2026-10-19 作者候選稿寫入。待審閱，未鎖定。** 來源 `CH04_The_Responsibility_of_Creation_v4.5_Natural_Traditional_Chinese_CANDIDATE.md`。SHA-256 `e5b0dea8af143548b8a7af029644587fa79ada4ee163f8a93a78dfe2640efb8b`。引言 29 詞，章首 33 詞。4.1–4.5 英文 390、369、383、388、402 詞，不增刪。節名：Responsibility Begins with Creation｜責任始於創造；The Power of Responsibility｜責任的力量；The Foundations of Trust｜信賴的基礎；Commitment and Order｜承諾與秩序；Responsible Creation｜負責任的創造。一百二十節 4.2–4.5 舊節名未改 |
+| 5 整章 | `智慧之海 cursor/Part_II_空間/05_我們建構的世界.md` | Locked v0.3 | **2026-10-27 作者鎖定稿整章替換。** 來源 `cursor文檔/Chapter5_Intelligence_Enters_Space_LOCKED_v0.3.md`。SHA-256 `09ebacfc80fb9851242543c64aa974167c6968b0108647512e1bd17a14b20cfb`。紀錄 `Chapter5_LOCK_MANIFEST_v0.3.md`。章名 Intelligence Enters Space｜智能進入空間。節名：From Tools to Intelligent Spaces｜從工具到智能空間；What Makes a Space Intelligent?｜什麼使空間具有智能？；From Sensing to Understanding｜從感知到理解；From Judgment to Action｜從判斷到行動；Intelligence in Everyday Life｜日常生活中的智能。一百二十節 5.1–5.5 舊節名未改。二十四章思想內容基準 v1.0 的第五章舊條目未改。v0.2 修訂候選在舊稿材料 |
+| 5 舊稿 | `智慧之海 cursor/舊稿材料/Part_II_空間_05_我們建構的世界_2026-10-26_v0.2_修訂候選.md` | Revision Candidate v0.2 | **歷史稿。** 2026-10-26 局部修訂候選。不是現行正文 |
 | — | `00-chatgpt-work-book/.../Part_VI_Artifact/Chapter_21` 至 `Chapter_24` | V0.2–V0.4 | **舊章名下的鎖定正文。** 不自動等於現行第17–20章 |
 
 先前第一章 V0.4 雜湊：`sha256:bfe96313f2c96a288c9182ec0bccc7d53213a5066a73a995295bd74b8e3fb112`。V0.5 草稿在 `舊稿材料/Part_I_人_02_人的尺度_V0.5_先前第一章草稿.md`，不是第二章正文。
 
 舊人造之物修訂總表仍在：`.../Part_VI_Artifact/PART_VI_REVISION_REGISTER.md`。那是舊章名的快照。
 
-2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準，但第一章正文自 2026-10-17 起以整章鎖定稿的節名為準，一百二十節檔未改。正文方面，第一章整章自 2026-10-18 起為 Locked v1.1，修訂僅開場句與章首第一段。第二章整章自 2026-10-17 起為 Locked v2.2，節名以該鎖定稿為準，一百二十節檔未改。第三章整章自 2026-10-19 起為 Locked v0.5，先前 3.1–3.4 改存舊稿材料。第四章正文自 2026-10-19 起為 Candidate v4.5，尚未鎖定。
+2026-10-11 起，章名與核心問題以本表及 `011-Contents_目錄.md` 為準。小節標題以一百二十節 v1.1 為準，但第一章正文自 2026-10-17 起以整章鎖定稿的節名為準，一百二十節檔未改。正文方面，第一章整章自 2026-10-18 起為 Locked v1.1，修訂僅開場句與章首第一段。第二章整章自 2026-10-17 起為 Locked v2.2，節名以該鎖定稿為準，一百二十節檔未改。第三章整章自 2026-10-19 起為 Locked v0.5，先前 3.1–3.4 改存舊稿材料。第四章正文自 2026-10-19 起為 Candidate v4.5，尚未鎖定。第五章整章自 2026-10-27 起為 Locked v0.3，章名以該鎖定稿為準，一百二十節檔未改。
 
 ### Chapter 2 Voice Debt｜第二章聲調債務（附於先前第一章 V0.5 草稿）
 
